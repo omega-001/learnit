@@ -5,4 +5,5 @@ I am Omega-002,I write this sentence here.
 pm:fuck pgs
 123
 test ssh
+new ssh
 
